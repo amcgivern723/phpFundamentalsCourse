@@ -1,7 +1,7 @@
 # phpFundamentalsCourse
 This is all the working code from the php fundamentals code I studied as part of my probation. 
 
-#Course Breakdown
+# Course Breakdown
 
 ----------General Types-----------
 
@@ -24,16 +24,16 @@ This is all the working code from the php fundamentals code I studied as part of
 
 --------Strings--------------
 
-Single Quoted Strings (Demo)
-Double Quoted Strings (Demo)
-Here Document (Demo)
-print() (Demo)
-Changing Case (Demo)
-strlen() (Demo)
-strpos() (Demo)
-str_replace() (Demo)
-substr() (Demo)
-str_split() (Demo)
+	Single Quoted Strings (Demo)
+	Double Quoted Strings (Demo)
+	Here Document (Demo)
+	print() (Demo)
+	Changing Case (Demo)
+	strlen() (Demo)
+	strpos() (Demo)
+	str_replace() (Demo)
+	substr() (Demo)
+	str_split() (Demo)
 
 --------Arrays------------
 
@@ -108,4 +108,4 @@ str_split() (Demo)
   Form Validation (Demo)
   session_start() (Demo)
   $_SESSION (Demo)
-	10.11	-	session_destroy() (Demo)
+  session_destroy() (Demo)
